@@ -12,7 +12,8 @@ Aivle school 3기 AI트랙 2반 8조 빅프로젝트 VITA(Video to Answer) (2023
 
 ![image](https://github.com/jingu1138/Aivle_Big_Project/assets/105771134/46f8c733-b9a0-4617-a7bf-87f5ccf59f80)
 
-![image](https://github.com/jingu1138/Aivle_Big_Project/assets/105771134/ab248cb9-fecb-4491-90f0-d463950f1c2d)
+![vita 시연영상](https://github.com/jingu1138/Aivle_Big_Project/assets/105771134/0c18742e-02a5-4f1e-a3f4-e224b42bd24d)
+
 
 ## 프로젝트에서 역할
 AI 모델링
